@@ -1,28 +1,32 @@
-# Installation Steps
+# 🌎 Hosted Online: https://amazon-clone-omega-six.vercel.app # 
 
+### 👉 NEXT.JS (Server-side rendering) ### 
+###### 🧐 Next router ######
+###### 🧐 Next image ######
 
+### 👉 REDUX  ###
 
-## Using npm
+### 👉 TAILWIND CSS (responsive) ###
 
-Run commands
+### 👉 NextAUTH AUTHENTICATION ###
 
-1) ```npm install```
+### 👉 API (Fake store API) ###
 
+### 👉 HEROICONS svg icons ###
 
-2) ```npm run dev```
+### 👉 REACT.JS ###
 
+### 👉 WEBHOOKS ###
 
-## Or using yarn
+### 👉 STRIPE CHECKOUTS ###
 
-Run commands 
+### 👉 FIREBASE ###
 
-1) ```npm install --global yarn```
+### 👉 GOOGLE LOGIN ###
 
-2) ```yarn install```
+![amzn_home](https://user-images.githubusercontent.com/72302495/120442399-315a0200-c3a3-11eb-9e02-7fb4975f51f1.PNG)
+![amzn_stripr_ckeckout](https://user-images.githubusercontent.com/72302495/120444305-21432200-c3a5-11eb-8f92-d0c697603cd3.PNG)
+![orders](https://user-images.githubusercontent.com/72302495/120444413-391aa600-c3a5-11eb-8c3a-2c1e2345c58e.PNG)
 
-3) ```yarn run dev```
+![amzn](https://user-images.githubusercontent.com/72302495/120444442-3fa91d80-c3a5-11eb-8287-fbe1382caee8.png)
 
-
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
